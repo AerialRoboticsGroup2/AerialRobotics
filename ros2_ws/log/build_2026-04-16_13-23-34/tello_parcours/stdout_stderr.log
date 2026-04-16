@@ -1,0 +1,65 @@
+running egg_info
+creating ../../build/tello_parcours/tello_parcours.egg-info
+writing ../../build/tello_parcours/tello_parcours.egg-info/PKG-INFO
+writing dependency_links to ../../build/tello_parcours/tello_parcours.egg-info/dependency_links.txt
+writing entry points to ../../build/tello_parcours/tello_parcours.egg-info/entry_points.txt
+writing requirements to ../../build/tello_parcours/tello_parcours.egg-info/requires.txt
+writing top-level names to ../../build/tello_parcours/tello_parcours.egg-info/top_level.txt
+writing manifest file '../../build/tello_parcours/tello_parcours.egg-info/SOURCES.txt'
+reading manifest file '../../build/tello_parcours/tello_parcours.egg-info/SOURCES.txt'
+writing manifest file '../../build/tello_parcours/tello_parcours.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/test_connection.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/hoepel_jager.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/camera_viewer.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/parcours_runner_tello.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/parcours_runner.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/single_hoop_test.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/__init__.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/diagnose_8890.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/hsv_tuner_tello.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+copying tello_parcours/autopilot.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours
+running install
+running install_lib
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/test_connection.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/hoepel_jager.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/camera_viewer.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/parcours_runner_tello.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/parcours_runner.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/single_hoop_test.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/__init__.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/diagnose_8890.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/hsv_tuner_tello.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/build/lib/tello_parcours/autopilot.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/test_connection.py to test_connection.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/hoepel_jager.py to hoepel_jager.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/camera_viewer.py to camera_viewer.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/parcours_runner_tello.py to parcours_runner_tello.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/parcours_runner.py to parcours_runner.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/single_hoop_test.py to single_hoop_test.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/diagnose_8890.py to diagnose_8890.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/hsv_tuner_tello.py to hsv_tuner_tello.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours/autopilot.py to autopilot.cpython-310.pyc
+running install_data
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/share/ament_index
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/share/ament_index/resource_index
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/share/ament_index/resource_index/packages
+copying resource/tello_parcours -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/share/ament_index/resource_index/packages
+copying package.xml -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/share/tello_parcours
+running install_egg_info
+Copying ../../build/tello_parcours/tello_parcours.egg-info to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/python3.10/site-packages/tello_parcours-0.0.0-py3.10.egg-info
+running install_scripts
+Installing autopilot script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing camera_viewer script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing hoepel_jager script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing hsv_tuner_tello script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing parcours_runner script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing parcours_runner_tello script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+Installing single_hoop_test script to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/tello_parcours/lib/tello_parcours
+writing list of installed files to '/home/loppukokeisiin/drone_sim_env/ros2_ws/build/tello_parcours/install.log'

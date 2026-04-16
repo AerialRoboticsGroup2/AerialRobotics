@@ -1,0 +1,9 @@
+[console_scripts]
+autopilot = tello_parcours.autopilot:main
+camera_viewer = tello_parcours.camera_viewer:main
+hoepel_jager = tello_parcours.hoepel_jager:main
+hsv_tuner_tello = tello_parcours.hsv_tuner_tello:main
+parcours_runner = tello_parcours.parcours_runner:main
+parcours_runner_tello = tello_parcours.parcours_runner_tello:main
+single_hoop_test = tello_parcours.single_hoop_test:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+fly_test = drone_test.fly_test:main
+

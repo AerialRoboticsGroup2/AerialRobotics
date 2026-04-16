@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/drone_ring/drone_ring.egg-info
+writing ../../build/drone_ring/drone_ring.egg-info/PKG-INFO
+writing dependency_links to ../../build/drone_ring/drone_ring.egg-info/dependency_links.txt
+writing entry points to ../../build/drone_ring/drone_ring.egg-info/entry_points.txt
+writing requirements to ../../build/drone_ring/drone_ring.egg-info/requires.txt
+writing top-level names to ../../build/drone_ring/drone_ring.egg-info/top_level.txt
+writing manifest file '../../build/drone_ring/drone_ring.egg-info/SOURCES.txt'
+reading manifest file '../../build/drone_ring/drone_ring.egg-info/SOURCES.txt'
+writing manifest file '../../build/drone_ring/drone_ring.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/controller.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/vision.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/slam_interface.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/mission_node.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/__init__.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+copying drone_ring/drone_ring.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring
+running install
+running install_lib
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/controller.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/vision.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/slam_interface.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/mission_node.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/__init__.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+copying /home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/build/lib/drone_ring/drone_ring.py -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/controller.py to controller.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/vision.py to vision.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/slam_interface.py to slam_interface.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/mission_node.py to mission_node.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring/drone_ring.py to drone_ring.cpython-310.pyc
+running install_data
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/share/ament_index
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/share/ament_index/resource_index
+creating /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/share/ament_index/resource_index/packages
+copying resource/drone_ring -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/share/ament_index/resource_index/packages
+copying package.xml -> /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/share/drone_ring
+running install_egg_info
+Copying ../../build/drone_ring/drone_ring.egg-info to /home/loppukokeisiin/drone_sim_env/ros2_ws/install/drone_ring/lib/python3.10/site-packages/drone_ring-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/loppukokeisiin/drone_sim_env/ros2_ws/build/drone_ring/install.log'
