@@ -1,3 +1,1 @@
-djitellopy
-opencv-python
-numpy
+pip install djitellopy opencv-python numpy
