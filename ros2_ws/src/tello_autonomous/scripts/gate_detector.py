@@ -1,0 +1,1 @@
+print("Gate detector loaded")
